@@ -1,0 +1,14 @@
+#ignore files generated from cam processor
+*.b#*
+*.DRI
+*.GBL
+*.GBO
+*.GBS
+*.GML
+*.gpi
+*.GTL
+*.GTO
+*.GTP
+*.GTS
+*.s#*
+*.TXT
