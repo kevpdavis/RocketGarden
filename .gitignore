@@ -15,3 +15,6 @@
 *.XLN
 *.GKO
 *.zip
+
+#ignore temporary files from MS Office
+~*
